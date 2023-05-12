@@ -2,8 +2,12 @@ from textblob import TextBlob
 from textblob import Word
 import random
 
+# comments - name, assignment, estimate, actual
+#Damon Beam - Python Project 1 - Expected time 5 hours - Actual time 4 hours
+#Summary: I expexted the project to take around 5 hours, but I got a hang of it quicker than I thought. Once I learned more about how to use python and Textblob, it went pretty
+#smoothly. I'm happy overall with how the project turned out (even if the sentences made can be a bit odd at times).
 
-#Expected time 5 hours
+
 
 #Definite Article list of the three most common articles. Word list contains the 1000 most used words in English.
 defArticleList = TextBlob("A The")
